@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+}*
+  
+body {
+    margin: 0;
+    font-family: 'Hind', sans-serif;
+}
+
+.forUA {
+    top: 92%;
+    background-color: transparent;
+    padding: 8px 16px;
+}
+  
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+  
+nav li a {
+    display: block;
+    color:black;
+    padding: 8px 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+  
+nav li a.active {
+    background-color: rgb(244, 224, 48);
+    color: #595959;
+}
+  
+nav li a:hover:not(.active) {
+    background-color: white;
+    color: #595959;
+}
+
+img.blart {
+    max-width: 500px;
+    width: 100%;
+    min-width: 25%;
+    border-radius: 25px;
+}
+
+img.journal {
+    max-width: 800px;
+    width: 100%;
+    min-width: 25%;
+}
+
+#ptnsux {
+    max-width: 50px;
+    width: 100%;
+    min-width: 50px;
+}
+
+p {
+    font-family: 'Cormorant Garamond', serif;
+}
+ 
+a {
+    color: rgb(244, 107, 48);
+    text-decoration: none;
+}
+
+div.prompt {
+    font-family: 'Cormorant Garamond', serif;
+    background-color: rgb(244, 224, 48, 0.3);
+    font-weight: bold;
+    font-style: italic;
+    max-width: 800px;
+    width: 100%;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 25px;
+    overflow: auto;
+}
+
+div.response {
+    font-family: 'Cormorant Garamond', serif;
+    background-color: #f1f1f1;
+    max-width: 800px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 25px;
+    overflow: auto;
+   
+}
+
+div.break {
+    max-width: 800px;
+    width: 100%;
+}
