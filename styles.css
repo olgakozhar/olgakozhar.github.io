@@ -49,18 +49,6 @@ img.olga {
     border-radius: 25px;
 }
 
-img.journal {
-    max-width: 800px;
-    width: 100%;
-    min-width: 25%;
-}
-
-#ptnsux {
-    max-width: 50px;
-    width: 100%;
-    min-width: 50px;
-}
-
 p {
     font-family: 'Cormorant Garamond', serif;
 }
