@@ -50,7 +50,7 @@ img.olga {
 }
 
 p {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant Garamond', Helvetica;
 }
  
 a {
@@ -59,7 +59,7 @@ a {
 }
 
 div.prompt {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant Garamond', Helvetica;
     background-color: rgb(244, 224, 48, 0.3);
     font-weight: bold;
     font-style: italic;
@@ -73,7 +73,7 @@ div.prompt {
 }
 
 div.response {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant Garamond', Helvetica;
     background-color: #f1f1f1;
     max-width: 800px;
     width: 100%;
