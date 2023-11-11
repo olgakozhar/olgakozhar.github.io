@@ -44,8 +44,8 @@ nav li a:hover:not(.active) {
 
 img.olga {
     vertical-align: middle;
-    width: 50px;
-    min-width: 50px;
+    width: 150px;
+    min-width: 150px;
     border-radius: 50%;
 }
 
