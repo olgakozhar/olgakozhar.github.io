@@ -16,6 +16,21 @@
     div.b {
         line-height:0.5em;
     }
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 </style>
 </head>
 
@@ -49,6 +64,32 @@
 
         <div id="Skills">
             <h1>Skills</h1>
+            <div class="row">
+                <div class="column">
+                    <h3>In vivo and in vitro</h3>
+                    <ul>
+                        <li>Microbiology</li>
+                        <li>Field work</li>
+                        <li>Microscopy</li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <h3>Molecular biology</h3>
+                    <ul>
+                        <il>PCR, qPCR, LAMP</il>
+                        <il>Restriction digestion</il>
+                        <il>Marker design</il>
+                    </ul>
+                </div>
+                <div class="column">
+                    <h3>Data analysis</h3>
+                    <ul>
+                        <il>NGS bioinformatics tools</il>
+                        <il>Python, R packages</il>
+                        <il>Statistical analysis</il>
+                    </ul>
+                </div>
+            </div>
             
             <section>  
                 <p>Field work</p>
