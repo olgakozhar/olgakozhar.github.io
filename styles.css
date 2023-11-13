@@ -48,6 +48,15 @@ img.olga {
     min-width: 150px;
     border-radius: 50%;
 }
+img.field_greenhouse {
+    vertical-align: middle;
+    width: 400px;
+    min-width: 150px;
+}
+
+.adjust-line-height {
+    line-height: 1em;
+  }
 
 p {
     font-family: 'Hind', Helvetica;
