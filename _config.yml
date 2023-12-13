@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Microbiome analysis of pine needles
+        title: Biotic and abiotic factors driving disease emergence on pine trees
         #link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -84,7 +84,7 @@ content:
         quote: >
           Solving cases of novel diseases of trees
         description: | # this will include new lines to allow paragraphs
-            I am a part of Stewart Lab at Colorado State University, where I work on numerous research projects focused on emerging diseases of trees in urban and natural forest ecosystems.
+            I am a part of Stewart Lab at Colorado State University, where I work on several research projects focused on emerging diseases of trees in urban and natural forest ecosystems.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
