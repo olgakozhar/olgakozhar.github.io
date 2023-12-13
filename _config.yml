@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Biotic and abiotic factors driving disease emergence on pine trees
+        title: Exploring microbiome for disease management
         #link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
@@ -70,7 +70,15 @@ content:
         quote: >
           Connecting climate, microbiome, and phenotypic data to understand disease evolution
         description: | # this will include new lines to allow paragraphs
-          I started this project in spring of 2023 as a collaboration between Stewartlab and USDA Forest Service. I am using climate, phenotypic, metagenomics, and metatranscriptomics data from pine needles to understand what drives recent loblolly pine tree decline across southeastern region of USA. With this I want to learn what members of needle microbiome are associated with the disease, how microbial communities change during season, and what climatic factors are associated with disease severity. In the end we want to use this information to build a risk assessment management tool as part of the disease mitigation efforts.
+          I started this project in spring of 2023 as a collaboration between Stewartlab and USDA Forest Service. I am using climate, phenotypic, metagenomics, and metatranscriptomics data from pine needles to understand what drives recent loblolly pine tree decline across southeastern region of USA. With this I want to learn what members of needle microbiome are associated with the disease, how microbial communities change during season, and what climatic factors are associated with disease severity. In the end this information will be used for the development of a disease risk assessment management tool.
+        
+        title: Long-term effects of invasions on ecosystems
+        link: https://doi.org/10.1016/j.funbio.2023.11.005
+        # link_text: Project Website
+        quote: >
+          New opportunities for pathogen evolution in globalization era
+        description: | # this will include new lines to allow paragraphs
+          With the world being interconnected, we also connect ecosystems. This in turn puts organisms, previously isolated, into contact. This is one of many ways how human activities drive evolution of other organisms. Combining phenotypic and genetic data, I investigated incidence, distribution, genetics, and pathogenicity of a recently identified hybrid of two fungal pathogens, the invasive Cronartium ribicola and native Cronartium comandrae of pine forest ecosystems in western USA. In future, I hope to sequence genomes of these hybrids to better understand mechanisms of their evolution.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
