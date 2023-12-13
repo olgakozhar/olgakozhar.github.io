@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  olgakozhar
+# github_username:  olgakozhar
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -27,7 +27,7 @@ linkedin_username: olgakozhar
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0002-0976-7334
 
 # Additional icon links
 # additional_links:
@@ -50,15 +50,15 @@ about_profile_image: images/olga_cropped.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a biologist interested in ecology, population genomics, and evolution of microbes and their host plants. I am currently focused on understanding processes leading to the emergence of fungal diseases of plants under climate change. For this I use field observations, molecular data, evolutionary theory, and modern computational tools. Being broadly interested in science, I get excited about research initiatives focused on unraveling genetic signatures of organismal adaptation and how these mechanisms can be used to enhance sustainable food production and improve ecosystems health. I also teach a graduate course on Biology and Genetics of Fungal Plant Pathogens at Colorado State University, mentor undergraduate and graduate students, and spend a lot of free time in nature with my dog.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Molecular Biology</mark>, <mark>Genomics</mark> and <mark>Plant-microbe interactions</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Analysis of host tissue microbiome
+        #link: github.com/sproogen
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
