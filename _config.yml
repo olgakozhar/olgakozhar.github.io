@@ -92,14 +92,14 @@ content:
         quote: >
           Creating tools for pathogen identification
         description: |
-          Together with my colleague Jorge Ibarra Caballero, I designed genetic - based assay for identification of invasive forest pathogen. This assay requires minimum training, accessable equipment, and can be used directly in field.
+          Together with my colleague Jorge Ibarra Caballero, I designed genetic-based assay for identification of the invasive forest pathogen. This assay requires minimum training, accessable equipment, and can be used directly in field.
       - layout: top-middle
         title: Disease emergence in changing environments
         link: https://doi.org/10.1111/mec.16384
         quote: >
           Using genomic data and machine learning to understand pathogen evolution
         description: |
-          Applying principles of population genetics, coalescent theory, and supervised machine learning to genomic data I studied ecological and evolutionary processes that promote emergence of tropical tree pathogen Phellinus noxius.
+          Applying principles of population genetics, coalescent theory, and supervised machine learning to genomic data I studied ecological and evolutionary processes that promote emergence of a tropical tree pathogen Phellinus noxius. During this work we learned that human practices and severe weather events likely cause the disease emergence.
       - layout: top-middle
         title: Linking disease ecology, evolution, and sustainable disease management
         link: https://journals.asm.org/doi/10.1128/aem.02908-19
