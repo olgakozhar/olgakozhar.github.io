@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Olga Kozhar
+name: Olga Kozhar PhD
 title: Research Scientist
 email: okozhar@gmail.com
 #website: www.github.com/sproogen/resume-theme
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/olga_cropped.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a biologist interested in ecology, population genomics, and evolution of microbes and their host plants. I am currently focused on understanding processes leading to the emergence of fungal diseases of plants under climate change. For this I use field observations, molecular data, evolutionary theory, and modern computational tools. Being broadly interested in science, I get excited about research initiatives focused on unraveling genetic signatures of organismal adaptation and how these mechanisms can be used to enhance sustainable food production and improve ecosystems health. I also teach a graduate course on Biology and Genetics of Fungal Plant Pathogens at Colorado State University, mentor undergraduate and graduate students, and spend a lot of free time in nature with my dog.
+  I am a biologist interested in ecology, population genomics, and evolution of microbes and their host plants. I hold a PhD degree in Plant Pathology from Washington State University. I am currently focused on understanding processes leading to the emergence of fungal diseases of plants under climate change. For this I use field observations, molecular data, evolutionary theory, and modern computational tools. Being broadly interested in science, I get excited about research initiatives focused on unraveling genetic signatures of organismal adaptation and how these mechanisms can be used to enhance sustainable food production and improve ecosystems health. I also teach a graduate course on Biology and Genetics of Fungal Plant Pathogens at Colorado State University, mentor undergraduate and graduate students, and spend a lot of free time in nature with my dog.
 
   I am most skilled in: <mark>Molecular Biology</mark>, <mark>Genomics</mark> and <mark>Plant Disease Ecology</mark>
 
@@ -76,37 +76,19 @@ content:
         link: https://doi.org/10.1016/j.funbio.2023.11.005
         # link_text: Project Website
         quote: >
-          New opportunities for pathogen evolution in globalization era
+          Investigating new opportunities for pathogen evolution in globalization era
         description: | # this will include new lines to allow paragraphs
-          With the world being interconnected, we also connect ecosystems. This in turn puts organisms, previously isolated, into contact. This is one of many ways how human activities drive evolution of other organisms. Combining phenotypic and genetic data, I investigated incidence, distribution, genetics, and pathogenicity of a recently identified hybrid of two fungal pathogens, the invasive Cronartium ribicola and native Cronartium comandrae of pine forest ecosystems in western USA. In future, I hope to sequence genomes of these hybrids to better understand mechanisms of their evolution.
+          With the world being interconnected, we also connect ecosystems. This in turn puts organisms, previously isolated, into contact. This is one of many ways how human activities drive evolution of other organisms. Combining phenotypic and genetic data, I investigated distribution, genetics, and pathogenicity of a recently identified hybrid of native and invasive fungal pathogens of forest ecosystems in western USA. In future, I plan to sequence genomes of these hybrids to better understand mechanisms of their evolution.
+      - layout: top-middle
+        title: 
 
-  - title: Experience # Title for the section
+  - title: Research talks # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: CSU
-        link: https://agsci.colostate.edu/stewartlab/
-        # link_text: boringcompany.com
-        sub_title: Postdoctoral Researcher
-        caption: March 2020 - Present
-        quote: >
-          Solving cases of novel diseases of trees
+        title: 2023
         description: | # this will include new lines to allow paragraphs
-            I am a part of Stewart Lab at Colorado State University, where I work on several research projects focused on emerging diseases of trees in urban and natural forest ecosystems.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+            Kozhar O et al. Pathogen emergence in changing ecosystems: case study with Phellinus noxius in Eastern Asia, Australia, and the Pacifi c Islands. International Congress of Plant Pathology 2023. Lyon, France.
 
   - title: A Little More About Me
     layout: text
