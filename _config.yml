@@ -80,8 +80,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           With the world being interconnected, we also connect ecosystems. This in turn puts organisms, previously isolated, into contact. This is one of many ways how human activities drive evolution of other organisms. Combining phenotypic and genetic data, I investigated distribution, genetics, and pathogenicity of a recently identified hybrid of native and invasive fungal pathogens of forest ecosystems in western USA. In future, I plan to sequence genomes of these hybrids to better understand mechanisms of their evolution.
       - layout: top-middle
-        title: Studying populations of emerging pathogen of oak trees in western USA
-        link: 
+        title: Bacterial population genomics
+        link: https://doi.org/10.1038/s41598-023-41976-8
+        quote: >
+          Studying populations of emerging pathogen of oak trees in western USA
+        description: |
+          Utilizing whole genome sequencing, I studied the phylogenetic relationship and diversity of two populations of the bacterial oak pathogen Lonsdalea quercina from western North America and compared these populations to other Lonsdalea species found worldwide. 
 
   - title: Research talks # Title for the section
     layout: list # Type of content section (list/text)
