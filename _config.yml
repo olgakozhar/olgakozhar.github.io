@@ -86,6 +86,20 @@ content:
           Studying populations of emerging pathogen of oak trees in western USA
         description: |
           Utilizing whole genome sequencing, I studied the phylogenetic relationship and diversity of two populations of the bacterial oak pathogen Lonsdalea quercina from western North America and compared these populations to other Lonsdalea species found worldwide. 
+      - layout: top-middle
+        title: Designing molecular tests for plant pathogens
+        link: https://doi.org/10.1111/efp.12814
+        quote: >
+          Creating tools for pathogen identification
+        description: |
+          Together with colleagues, I designed genetic - based molecular assay for specific identification of invasive forest pathogen. This assay requires minimum training, accessable equipment, and can be used directly in field.
+      - layout: top-middle
+        title: Disease emergence in changing environments
+        link: https://doi.org/10.1111/mec.16384
+        quote: >
+          Using genomic data and machine learning to understand pathogen evolution
+        description: |
+          Applying principles of population genetics, coalescent theory, and supervised machine learning to genomic data I studied ecological and evolutionary processes promoting emergence of tropical tree pathogen Phellinus noxius.
 
   - title: Research talks # Title for the section
     layout: list # Type of content section (list/text)
