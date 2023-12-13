@@ -1,39 +1,39 @@
 # Site
-repository: sproogen/resume-theme
+repository: olgakozhar/olgakozhar.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Olga Kozhar PhD
+title: Research Scientist
+email: okozhar@gmail.com 
+#website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+#github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: olgakozhar
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0002-0976-7334
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: scholar.google.com
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://scholar.google.com/citations?user=FHZ9QSIAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,71 +46,125 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/olga_cropped.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I am a biologist interested in ecology, population genomics, and evolution of microbes and their host plants. I hold a PhD degree in Plant Pathology from Washington State University. I am currently focused on understanding processes leading to the emergence of fungal diseases of plants under climate change. For this I use field observations, molecular data, evolutionary theory, and modern computational tools. Being broadly interested in science, I get excited about research initiatives focused on unraveling genetic signatures of organismal adaptation and how these mechanisms can be used to enhance sustainable food production and improve ecosystems health. I also teach a graduate course on Biology and Genetics of Fungal Plant Pathogens at Colorado State University, mentor undergraduate and graduate students, and spend a lot of free time in nature with my dog.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Molecular Biology</mark> <mark>Genomics</mark> and <mark>Plant Disease Ecology</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Exploring microbiome for disease management
+        #link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Connecting climate, microbiome, and phenotypic data to understand disease evolution
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project in spring of 2023 as a collaboration between Stewartlab and USDA Forest Service. I am using climate, phenotypic, metagenomics, and metatranscriptomics data from pine needles to understand what drives recent loblolly pine tree decline across southeastern region of USA. With this I want to learn what members of needle microbiome are associated with the disease, how microbial communities change during season, and what climatic factors are associated with disease severity. In the end this information will be used for the development of a disease risk assessment management tool.
+      - layout: top-middle
+        title: Long-term effects of invasions on ecosystems
+        link: https://doi.org/10.1016/j.funbio.2023.11.005
+        # link_text: Project Website
+        quote: >
+          Investigating new opportunities for pathogen evolution in globalization era
+        description: | # this will include new lines to allow paragraphs
+          With the world being interconnected, we also connect ecosystems. This in turn puts organisms, previously isolated, into contact. This is one of many ways how human activities drive evolution of other organisms. Combining phenotypic and genetic data, I investigated distribution, genetics, and pathogenicity of a recently identified hybrid of native and invasive fungal pathogens of forest ecosystems in western USA. In future, I plan to sequence genomes of these hybrids to better understand mechanisms of their evolution.
+      - layout: top-middle
+        title: Bacterial population genomics
+        link: https://doi.org/10.1038/s41598-023-41976-8
+        quote: >
+          Studying populations of emerging pathogen of oak trees in western USA
+        description: |
+          Utilizing whole genome sequencing, I studied the phylogenetic relationship and diversity of two populations of the bacterial oak pathogen Lonsdalea quercina from western North America and compared these populations to other Lonsdalea species found worldwide. 
+      - layout: top-middle
+        title: Designing molecular tests for plant pathogens
+        link: https://doi.org/10.1111/efp.12814
+        quote: >
+          Creating tools for pathogen identification
+        description: |
+          Together with colleagues, I designed genetic - based molecular assay for specific identification of invasive forest pathogen. This assay requires minimum training, accessable equipment, and can be used directly in field.
+      - layout: top-middle
+        title: Disease emergence in changing environments
+        link: https://doi.org/10.1111/mec.16384
+        quote: >
+          Using genomic data and machine learning to understand pathogen evolution
+        description: |
+          Applying principles of population genetics, coalescent theory, and supervised machine learning to genomic data I studied ecological and evolutionary processes promoting emergence of tropical tree pathogen Phellinus noxius.
+      - layout: top-middle
+        title: Linking disease ecology, evolution, and sustainable disease management
+        link: https://journals.asm.org/doi/10.1128/aem.02908-19
+        additional_links:
+        - title:  https://apsjournals.apsnet.org/doi/full/10.1094/PHYTO-01-18-0016-R
+            icon: fas fa-globe
+            url: https://apsjournals.apsnet.org/doi/full/10.1094/PHYTO-01-18-0016-R
+           - title:  https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.13284
+             icon: fas fa-globe
+             url: https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.13284
+        quote: >
+          Ecology and population biology of gray mold on berries
+        description: |
+          This was my PhD project that I completed at WSU. During exciting and challening years of grad school I learned a ton about infection process of red raspberry by a fungus in the Pacific Northwest, dived into microbial evolution and its adaptation to antrhopogenic environments, and ate a lot of berries. Results of my work helped farmers to improve disease management and decrease amount of fungicides used in fields.
 
-  - title: Experience # Title for the section
+  - title: Research talks # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+      - layout: top-middle
+        title: Conference talks
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          I love talking about science and regularly present my research at conferences and meetings with public
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+            Pathogen emergence in changing ecosystems: case study with Phellinus noxius in Eastern Asia, Australia, and the Pacifi c Islands. International Congress of Plant Pathology 2023. Lyon, France.
+            Emerging tree pathogen Phellinus noxius has a long evolutionary history in Eastern Asia, Australia, and the Pacifi c Islands. Fungal Genetics Conference Fungal22. March 19th, 2022. Pacifi c Grove, CA, USA.
+            Detection and distribution of Cronartium ribicola and Cronartium comandrae hybrids in Colorado and Wyoming forests, USA. American Phytopathological Society Annual Meeting Plant Health 2021. August 2nd, 2021. Online.
+            Population structure and pathways of spread of an emerging tree root pathogen Phellinus noxius in Southeast Asia, Australia, and the Pacifi c Islands. American Phytopathological Society Pacifi c Division Meeting. June 16th, 2021. Online.
+            Insights into population structure of Botrytis cinerea infecting small fruit in the Pacifi c Northwest. American Phytopathological Society Annual Meeting Plant Health 2020. August 12th, 2020. Fort Collins, CO.
+            Populations of Botrytis cinerea infecting small fruit in the Pacifi c Northwest. American Phytopathological Society Pacifi c Division Meeting. June 26th, 2019. Fort Collins, CO.
+            Biology and fungicide resistance of Botrytis cinerea on small fruit in Washington. Annual Berry Disease meeting. February 21st, 2019. Lynden, WA.
+            Dynamics of Botrytis cinerea colonization of red raspberry flowers and fruit. Washington Small Fruit Conference & Ag Show. November 28th, 2018. Lynden, WA.
+            Effects of fungicide applications on Botrytis cinerea colonization of red raspberry at different developmental stages of the host. Annual Berry Disease meeting. February 21st, 2018. Lynden, WA.
+            Do early-season fungicide applications decrease Botrytis fruit rot of red raspberry? Washington Small Fruit Conference. December 15st, 2017. Lynden, WA.
+            How does Botrytis cinerea infect red raspberry? American Phytopathological Society Annual Meeting. July 30th, 2017. San Antonio, TX.
+      - layout: top-middle
+        title: Conference posters
+        description: | # this will include new lines to allow paragraphs  
+            Temporal and spatial distribution of interspecifi c hybrid of two tree rust pathogens in subalpine ecosystems of western USA. Plant Health 2023. August 12th, 2023. Denver, CO.
+            Population genomic analysis of Lonsdalea quercina, an emerging pathogen affecting various species of oaks in Colorado and California. Plant Health 2022. August 10th, 2022. Pittsburgh, PA.
+            Botrytis cinerea population structure on small fruit in the Pacifi c Northwest. Washington State University Mount Vernon Research and Extension Center Field Day. July 7th, 2019. Mount Vernon, WA.
+            Insights into Botrytis cinerea population structure on small fruit in the Pacifi c Northwest. 30th Fungal genetics conference. March 15th, 2019. Pacifi c Grove, CA.
+            Colonization dynamics of red raspberry flowers and fruit by Botrytis cinerea. International Congress of Plant Pathology. July 31st, 2018. Boston, MA.
+            What do we know about population structure of Botrytis cinerea infecting small fruit in the Pacific Northwest? Annual Conference of Northwest Center for Small Fruits Research. December 8th, 2016. Kennewick, WA.
+            Phylogenetic analysis of a morphologically distinct morel (Morchella spp) from the US Inland Pacifi c Northwest. 84th Annual Meeting of Mycological Society of America. August 5th, 2016. Berkeley, CA.
+            Biology of Botrytis fruit rot on red raspberry. Washington Small Fruit Conference. December 4th, 2015. Lynden, WA.
+      - layout: top-middle
+        title: Outreach
+        description: | # this will include new lines to allow paragraphs  
+            Pests and diseases of forest and residential trees. Earth Day K-12 presentation for Werner Elementary School. April 23d, 2021. Fort Collins, CO.
+            Dynamics of Botrytis cinerea colonization of red raspberry flowers and fruit. Washington Berry Research Review. November 1st, 2018. Mount Vernon, WA.
+            Control of gray mold of berries in the Pacifi c Northwest. Skagit Berry Workshop. March, 23d, 2018. Mount Vernon, WA.
+            Population biology of Botrytis cinerea on small fruit in the Pacifi c Northwest. Berry Fungicide Resistance Working Group. February 22nd, 2017. Lynden, WA.
+            Botrytis fruit rot on red raspberry: are flowers important for the development of gray mold? Washington State University Mount Vernon Research and Extension Center Field Day. July 7th, 2016. Mount Vernon, WA.
+            Biology and ecology of Botrytis fruit rot on red raspberry. Washington State University Mount Vernon Research and Extension Center Field Day. July 5th, 2015. Mount Vernon, WA.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in science some of my other interests and hobbies are:
       - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Cycling
+      - Hiking
+      - Gardening
+      - Mixing music
+      - Art and craft projects
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
