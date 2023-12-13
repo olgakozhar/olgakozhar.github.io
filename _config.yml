@@ -70,7 +70,7 @@ content:
         quote: >
           Connecting climate, microbiome, and phenotypic data to understand disease evolution
         description: | # this will include new lines to allow paragraphs
-          I started this project in spring of 2023 as a collaboration between Stewartlab and USDA Forest Service. I am using climate, phenotypic, metagenomics, and metatranscriptomics data from pine needles to understand what causes a tree decline across southeastern region of USA
+          I started this project in spring of 2023 as a collaboration between Stewartlab and USDA Forest Service. I am using climate, phenotypic, metagenomics, and metatranscriptomics data from pine needles to understand what drives recent loblolly pine tree decline across southeastern region of USA. With this I want to learn what members of needle microbiome are associated with the disease, how microbial communities change during season, and what climatic factors are associated with disease severity. In the end we want to use this information to build a risk assessment management tool as part of the disease mitigation efforts.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
