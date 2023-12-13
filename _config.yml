@@ -1,6 +1,6 @@
 # Site
-#repository: sproogen/resume-theme
-#favicon: images/favicon.ico
+repository: olgakozhar.github.io
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -84,7 +84,7 @@ content:
         quote: >
           Solving cases of novel diseases of trees 
         description: | # this will include new lines to allow paragraphs
-            I work on numerous research projects focused on emerging diseases of trees in urban and natural forest ecosystems.
+            I am a part of Stewart Lab at CSU, where I work on numerous research projects focused on emerging diseases of trees in urban and natural forest ecosystems.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
