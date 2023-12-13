@@ -105,7 +105,7 @@ content:
         link: https://journals.asm.org/doi/10.1128/aem.02908-19
         additional_links:
         - title:  https://apsjournals.apsnet.org/doi/full/10.1094/PHYTO-01-18-0016-R
-            icon: fas fa-globe
+           # icon: fas fa-globe
             url: https://apsjournals.apsnet.org/doi/full/10.1094/PHYTO-01-18-0016-R
            - title:  https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.13284
              icon: fas fa-globe
