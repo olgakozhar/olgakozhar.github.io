@@ -111,9 +111,9 @@ content:
          #    icon: fas fa-globe
          #    url: https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.13284
         quote: >
-          Ecology and population biology of gray mold on berries
+          Ecology and population biology of gray mold fungus on berries
         description: |
-          This was my PhD project that I completed at WSU. During exciting and challening years of grad school I learned a ton about infection process of red raspberry by a fungus in the Pacific Northwest, dived into microbial evolution and its adaptation to antrhopogenic environments, and ate a lot of berries. Results of my work helped farmers to improve disease management and decrease amount of fungicides used in fields.
+          This was my PhD project that I completed at WSU. During exciting and challening years of grad school I learned a ton about infection process of red raspberry by Botrytis cinerea in the Pacific Northwest, dived into microbial evolution and its adaptation to antrhopogenic environments, and ate a lot of berries. Results of my work helped farmers improve disease management and decrease amount of fungicides used in fields.
 
   - title: Research talks # Title for the section
     layout: list # Type of content section (list/text)
