@@ -148,12 +148,12 @@ content:
       - layout: top-middle
         title: Outreach
         description: | # this will include new lines to allow paragraphs  
-            Pests and diseases of forest and residential trees. Earth Day K-12 presentation for Werner Elementary School. April 23d, 2021. Fort Collins, CO.
-            Dynamics of Botrytis cinerea colonization of red raspberry flowers and fruit. Washington Berry Research Review. November 1st, 2018. Mount Vernon, WA.
-            Control of gray mold of berries in the Pacifi c Northwest. Skagit Berry Workshop. March, 23d, 2018. Mount Vernon, WA.
-            Population biology of Botrytis cinerea on small fruit in the Pacifi c Northwest. Berry Fungicide Resistance Working Group. February 22nd, 2017. Lynden, WA.
-            Botrytis fruit rot on red raspberry: are flowers important for the development of gray mold? Washington State University Mount Vernon Research and Extension Center Field Day. July 7th, 2016. Mount Vernon, WA.
-            Biology and ecology of Botrytis fruit rot on red raspberry. Washington State University Mount Vernon Research and Extension Center Field Day. July 5th, 2015. Mount Vernon, WA.
+            - Pests and diseases of forest and residential trees. Earth Day K-12 presentation for Werner Elementary School. April 23d, 2021. Fort Collins, CO.
+            - Dynamics of Botrytis cinerea colonization of red raspberry flowers and fruit. Washington Berry Research Review. November 1st, 2018. Mount Vernon, WA.
+            - Control of gray mold of berries in the Pacifi c Northwest. Skagit Berry Workshop. March, 23d, 2018. Mount Vernon, WA.
+            - Population biology of Botrytis cinerea on small fruit in the Pacifi c Northwest. Berry Fungicide Resistance Working Group. February 22nd, 2017. Lynden, WA.
+            - Botrytis fruit rot on red raspberry: are flowers important for the development of gray mold? Washington State University Mount Vernon Research and Extension Center Field Day. July 7th, 2016. Mount Vernon, WA.
+            - Biology and ecology of Botrytis fruit rot on red raspberry. Washington State University Mount Vernon Research and Extension Center Field Day. July 5th, 2015. Mount Vernon, WA.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
