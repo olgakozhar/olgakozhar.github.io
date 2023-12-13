@@ -70,7 +70,7 @@ content:
         quote: >
           Connecting climate, microbiome, and phenotypic data to understand disease evolution
         description: | # this will include new lines to allow paragraphs
-          I started this project in spring of 2023 as a collaboration with USDA Forest Service. I am using metagenomics and metatranscriptomics data from pine needles to understand what causes a new pine tree decline across southeastern region of USA
+          I started this project in spring of 2023 as a collaboration between Stewartlab and USDA Forest Service. I am using climate, phenotypic, metagenomics, and metatranscriptomics data from pine needles to understand what causes a tree decline across southeastern region of USA
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
