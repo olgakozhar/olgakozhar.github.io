@@ -121,30 +121,30 @@ content:
       - layout: top-middle
         title: Conference talks
         quote: >
-          I love talking about science and regularly present my research at conferences and meetings with public
+          I love talking about science and regularly present my research at conferences and public meetings
         description: | # this will include new lines to allow paragraphs
-            Pathogen emergence in changing ecosystems: case study with Phellinus noxius in Eastern Asia, Australia, and the Pacifi c Islands. International Congress of Plant Pathology 2023. Lyon, France.
-            Emerging tree pathogen Phellinus noxius has a long evolutionary history in Eastern Asia, Australia, and the Pacifi c Islands. Fungal Genetics Conference Fungal22. March 19th, 2022. Pacifi c Grove, CA, USA.
-            Detection and distribution of Cronartium ribicola and Cronartium comandrae hybrids in Colorado and Wyoming forests, USA. American Phytopathological Society Annual Meeting Plant Health 2021. August 2nd, 2021. Online.
-            Population structure and pathways of spread of an emerging tree root pathogen Phellinus noxius in Southeast Asia, Australia, and the Pacifi c Islands. American Phytopathological Society Pacifi c Division Meeting. June 16th, 2021. Online.
-            Insights into population structure of Botrytis cinerea infecting small fruit in the Pacifi c Northwest. American Phytopathological Society Annual Meeting Plant Health 2020. August 12th, 2020. Fort Collins, CO.
-            Populations of Botrytis cinerea infecting small fruit in the Pacifi c Northwest. American Phytopathological Society Pacifi c Division Meeting. June 26th, 2019. Fort Collins, CO.
-            Biology and fungicide resistance of Botrytis cinerea on small fruit in Washington. Annual Berry Disease meeting. February 21st, 2019. Lynden, WA.
-            Dynamics of Botrytis cinerea colonization of red raspberry flowers and fruit. Washington Small Fruit Conference & Ag Show. November 28th, 2018. Lynden, WA.
-            Effects of fungicide applications on Botrytis cinerea colonization of red raspberry at different developmental stages of the host. Annual Berry Disease meeting. February 21st, 2018. Lynden, WA.
-            Do early-season fungicide applications decrease Botrytis fruit rot of red raspberry? Washington Small Fruit Conference. December 15st, 2017. Lynden, WA.
-            How does Botrytis cinerea infect red raspberry? American Phytopathological Society Annual Meeting. July 30th, 2017. San Antonio, TX.
+            - Pathogen emergence in changing ecosystems: case study with Phellinus noxius in Eastern Asia, Australia, and the Pacifi c Islands. International Congress of Plant Pathology 2023. Lyon, France.
+            - Emerging tree pathogen Phellinus noxius has a long evolutionary history in Eastern Asia, Australia, and the Pacifi c Islands. Fungal Genetics Conference Fungal22. March 19th, 2022. Pacifi c Grove, CA, USA.
+            - Detection and distribution of Cronartium ribicola and Cronartium comandrae hybrids in Colorado and Wyoming forests, USA. American Phytopathological Society Annual Meeting Plant Health 2021. August 2nd, 2021. Online.
+            - Population structure and pathways of spread of an emerging tree root pathogen Phellinus noxius in Southeast Asia, Australia, and the Pacifi c Islands. American Phytopathological Society Pacifi c Division Meeting. June 16th, 2021. Online.
+            - Insights into population structure of Botrytis cinerea infecting small fruit in the Pacifi c Northwest. American Phytopathological Society Annual Meeting Plant Health 2020. August 12th, 2020. Fort Collins, CO.
+            - Populations of Botrytis cinerea infecting small fruit in the Pacifi c Northwest. American Phytopathological Society Pacifi c Division Meeting. June 26th, 2019. Fort Collins, CO.
+            - Biology and fungicide resistance of Botrytis cinerea on small fruit in Washington. Annual Berry Disease meeting. February 21st, 2019. Lynden, WA.
+            - Dynamics of Botrytis cinerea colonization of red raspberry flowers and fruit. Washington Small Fruit Conference & Ag Show. November 28th, 2018. Lynden, WA.
+            - Effects of fungicide applications on Botrytis cinerea colonization of red raspberry at different developmental stages of the host. Annual Berry Disease meeting. February 21st, 2018. Lynden, WA.
+            - Do early-season fungicide applications decrease Botrytis fruit rot of red raspberry? Washington Small Fruit Conference. December 15st, 2017. Lynden, WA.
+            - How does Botrytis cinerea infect red raspberry? American Phytopathological Society Annual Meeting. July 30th, 2017. San Antonio, TX.
       - layout: top-middle
         title: Conference posters
         description: | # this will include new lines to allow paragraphs  
-            Temporal and spatial distribution of interspecifi c hybrid of two tree rust pathogens in subalpine ecosystems of western USA. Plant Health 2023. August 12th, 2023. Denver, CO.
-            Population genomic analysis of Lonsdalea quercina, an emerging pathogen affecting various species of oaks in Colorado and California. Plant Health 2022. August 10th, 2022. Pittsburgh, PA.
-            Botrytis cinerea population structure on small fruit in the Pacifi c Northwest. Washington State University Mount Vernon Research and Extension Center Field Day. July 7th, 2019. Mount Vernon, WA.
-            Insights into Botrytis cinerea population structure on small fruit in the Pacifi c Northwest. 30th Fungal genetics conference. March 15th, 2019. Pacifi c Grove, CA.
-            Colonization dynamics of red raspberry flowers and fruit by Botrytis cinerea. International Congress of Plant Pathology. July 31st, 2018. Boston, MA.
-            What do we know about population structure of Botrytis cinerea infecting small fruit in the Pacific Northwest? Annual Conference of Northwest Center for Small Fruits Research. December 8th, 2016. Kennewick, WA.
-            Phylogenetic analysis of a morphologically distinct morel (Morchella spp) from the US Inland Pacifi c Northwest. 84th Annual Meeting of Mycological Society of America. August 5th, 2016. Berkeley, CA.
-            Biology of Botrytis fruit rot on red raspberry. Washington Small Fruit Conference. December 4th, 2015. Lynden, WA.
+            - Temporal and spatial distribution of interspecifi c hybrid of two tree rust pathogens in subalpine ecosystems of western USA. Plant Health 2023. August 12th, 2023. Denver, CO.
+            - Population genomic analysis of Lonsdalea quercina, an emerging pathogen affecting various species of oaks in Colorado and California. Plant Health 2022. August 10th, 2022. Pittsburgh, PA.
+            - Botrytis cinerea population structure on small fruit in the Pacifi c Northwest. Washington State University Mount Vernon Research and Extension Center Field Day. July 7th, 2019. Mount Vernon, WA.
+            - Insights into Botrytis cinerea population structure on small fruit in the Pacifi c Northwest. 30th Fungal genetics conference. March 15th, 2019. Pacifi c Grove, CA.
+            - Colonization dynamics of red raspberry flowers and fruit by Botrytis cinerea. International Congress of Plant Pathology. July 31st, 2018. Boston, MA.
+            - What do we know about population structure of Botrytis cinerea infecting small fruit in the Pacific Northwest? Annual Conference of Northwest Center for Small Fruits Research. December 8th, 2016. Kennewick, WA.
+            - Phylogenetic analysis of a morphologically distinct morel (Morchella spp) from the US Inland Pacifi c Northwest. 84th Annual Meeting of Mycological Society of America. August 5th, 2016. Berkeley, CA.
+            - Biology of Botrytis fruit rot on red raspberry. Washington Small Fruit Conference. December 4th, 2015. Lynden, WA.
       - layout: top-middle
         title: Outreach
         description: | # this will include new lines to allow paragraphs  
