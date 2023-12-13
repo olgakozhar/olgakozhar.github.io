@@ -68,23 +68,23 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          I am using metagenomics and metatranscriptomics data from pine needles to understand what causes a new pine disease in SE USA
+          Connecting climate, microbiome, and phenotypic data to understand disease evolution
         description: | # this will include new lines to allow paragraphs
-          I started this project in spring of 2023 as a collaboration with USDA Forest Service.
+          I started this project in spring of 2023 as a collaboration with USDA Forest Service. I am using metagenomics and metatranscriptomics data from pine needles to understand what causes a new pine tree decline across southeastern region of USA
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Colorado State Univeristy
-        link: boringcompany.com
+        title: CSU
+        link: https://agsci.colostate.edu/stewartlab/
         # link_text: boringcompany.com
         sub_title: Postdoctoral Researcher
         caption: March 2020 - Present
         quote: >
           Solving cases of novel diseases of trees
         description: | # this will include new lines to allow paragraphs
-            I am a part of Stewart Lab at CSU, where I work on numerous research projects focused on emerging diseases of trees in urban and natural forest ecosystems.
+            I am a part of Stewart Lab at Colorado State University, where I work on numerous research projects focused on emerging diseases of trees in urban and natural forest ecosystems.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
