@@ -80,7 +80,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           With the world being interconnected, we also connect ecosystems. This in turn puts organisms, previously isolated, into contact. This is one of many ways how human activities drive evolution of other organisms. Combining phenotypic and genetic data, I investigated distribution, genetics, and pathogenicity of a recently identified hybrid of native and invasive fungal pathogens of forest ecosystems in western USA. In future, I plan to sequence genomes of these hybrids to better understand mechanisms of their evolution.
       - layout: top-middle
-        title: 
+        title: Studying populations of emerging pathogen of oak trees in western USA
+        link: 
 
   - title: Research talks # Title for the section
     layout: list # Type of content section (list/text)
